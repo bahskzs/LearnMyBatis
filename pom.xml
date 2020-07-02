@@ -30,7 +30,7 @@
 
   <properties>
     <mybatisVersion>3.5.0</mybatisVersion>
-    <mysqlVersion>5.1.47</mysqlVersion>
+    <mysqlVersion>8.0.16</mysqlVersion>
     <dao.target.dir>src/main/java</dao.target.dir>
   </properties>
 
